@@ -2,7 +2,7 @@
   "name": "freecodecamp-guangzhou",
   "version": "1.0.0",
   "description": "FreeCodeCamp-Guangzhou official",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/FreeCodeCamp-Guangzhou/FreeCodeCamp-Guangzhou.github.io/issues"
   },
-  "homepage": "https://github.com/FreeCodeCamp-Guangzhou/FreeCodeCamp-Guangzhou.github.io#readme"
+  "homepage": "https://github.com/FreeCodeCamp-Guangzhou/FreeCodeCamp-Guangzhou.github.io"
 }
