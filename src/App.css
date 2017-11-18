@@ -1,0 +1,25 @@
+.logoContainer {
+  position: absolute;
+  left: 50%;
+}
+
+.logo {
+  position: relative;
+  left: -50%;
+  width: 20vw;
+}
+
+.ant-layout-header {
+    background: rgba(215, 121, 9, 0.82);
+    padding: 0;
+    height: 5vh;
+    line-height: 5vh;
+}
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  overflow: hidden;
+}
+
+
+
